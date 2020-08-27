@@ -4,26 +4,37 @@ let resumeData = {
     "role": "Finding the impossible",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I am a sincere seeker",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/",
+          "url":"https://www.linkedin.com/in/sachin-sandel-b31944a2/",
           "className":"fa fa-linkedin"
         },
         {
-          "name":"github",
-          "url":"http://github.com/sachinsandel",
-          "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
+          "name":"twitter",
           "url":"http://twitter.com/sachinsandel",
           "className":"fa fa-twitter"
-        }
+        },
+        {
+          "name":"youtube",
+          "url":"https://www.youtube.com/channel/UCHTwbgd5zzMQszA2lEXg2yA",
+          "className":"fa fa-youtube"
+        },
+        {
+          "name":"instgram",
+          "url":"https://www.instagram.com/canadatruenorthvlog/?hl=en",
+          "className":"fa fa-instagram"
+        },
+        {
+          "name":"facebook",
+          "url":"https://www.facebook.com/canadatruenorthvlog",
+          "className":"fa fa-facebook"
+        },
+        
       ],
     "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
+    "address":"Toronto, Canada",
     "website":"https://sachinsandel.com",
     "education":[
       {
